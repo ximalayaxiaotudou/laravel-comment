@@ -1,7 +1,4 @@
- @import "node_modules/bootstrap-sass/assets/stylesheets/bootstrap";
-
-
- @extends('layouts.app')
+@extends('layouts.app')
 
 @section('content')
 
@@ -40,4 +37,3 @@
 </div>
 
 @endsection
-
